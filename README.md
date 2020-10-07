@@ -1636,6 +1636,4 @@ They are just JavaScript. They are not adding anything extra to JavaScript. They
 
 A developer who knows all the pieces of a software stack, and thus build software by themselves.
 
-Aman Mahaan h
-Pull request accept kar liyo
 
