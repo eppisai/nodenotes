@@ -1,3 +1,4 @@
+Node Notes
 # CLI - Command line interface:
 A utility in your computer that you use to type commands rather than using your mouse. That's what it all means. Examples are Terminal on Mac, Command Prompt on Windows etc.
 
